@@ -1,5 +1,38 @@
-# 💫 About Me:
-🔭 I’m currently working on …<br>Building APIs for AI/ML as an intern at Agentrax and developing a full-stack e-commerce website.<br><br>🌱 I’m currently learning …<br>FastAPI, SFML for C++ graphics, advanced STL algorithms, and real-time software concepts.<br><br>👯 I’m looking to collaborate on …<br>Open-source C++ projects, web development projects (Django/React/FastAPI), and AI/ML-related APIs.<br><br>🤔 I’m looking for help with …<br>Improving my understanding of AI/ML integration, real-time systems, and performance optimization in C++.<br><br>💬 Ask me about …<br>C++, Python, web development, AI/ML APIs, data structures, algorithms, and game development.<br><br>📫 How to reach me: …<br>Email: mirzaalishahbaz192@gmail.com<br> | GitHub: github.com/alishahbazbaig | LinkedIn: linkedin.com/in/alishahbaz<br><br>😄 Pronouns: …<br>He/Him<br><br>⚡ Fun fact: …<br>I love learning new things.
+# 💫 About Me
+
+🔭 **I’m currently working on:**  
+- Building APIs for AI/ML as an intern at [Agentrax](https://www.agentrax.com)  
+- Developing a full-stack e-commerce website  
+
+🌱 **I’m currently learning:**  
+- FastAPI  
+- SFML for C++ graphics  
+- Advanced STL algorithms  
+- Real-time software concepts  
+
+👯 **I’m looking to collaborate on:**  
+- Open-source C++ projects  
+- Web development projects (Django/React/FastAPI)  
+- AI/ML-related APIs  
+
+🤔 **I’m looking for help with:**  
+- AI/ML integration  
+- Real-time systems  
+- Performance optimization in C++  
+
+💬 **Ask me about:**  
+- C++, Python, web development, AI/ML APIs  
+- Data structures, algorithms, and game development  
+
+📫 **How to reach me:**  
+- Email: [mirzaalishahbaz192@gmail.com](mailto:mirzaalishahbaz192@gmail.com)  
+- GitHub: [github.com/alishahbazbaig](https://github.com/alishahbazbaig)  
+- LinkedIn: [ali-shahbaz-mirza-72008b373](https://www.linkedin.com/in/ali-shahbaz-mirza-72008b373/)  
+
+😄 **Pronouns:** He/Him  
+
+⚡ **Fun fact:** I love learning new things and building projects for fun.
+
 
 
 ## 🌐 Socials:
