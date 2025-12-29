@@ -1,7 +1,5 @@
 # 💫 About Me
 
-# 💫 About Me
-
 Hi, I’m **Ali Shahbaz Mirza** 👋  
 💻 **Intern at [Agentrax](https://www.agentrax.com)** | Building AI/ML APIs  
 
