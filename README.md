@@ -1,39 +1,43 @@
 # 💫 About Me
 
-🔭 **I’m currently working on:**  
-- Building APIs for AI/ML as an intern at [Agentrax](https://www.agentrax.com)  
-- Developing a full-stack e-commerce website  
+# 💫 About Me
 
-🌱 **I’m currently learning:**  
-- FastAPI  
-- SFML for C++ graphics  
-- Advanced STL algorithms  
-- Real-time software concepts  
+Hi, I’m **Ali Shahbaz Mirza** 👋  
+💻 **Intern at [Agentrax](https://www.agentrax.com)** | Building AI/ML APIs  
 
-👯 **I’m looking to collaborate on:**  
-- Open-source C++ projects  
-- Web development projects (Django/React/FastAPI)  
-- AI/ML-related APIs  
+---
 
-🤔 **I’m looking for help with:**  
-- AI/ML integration  
-- Real-time systems  
-- Performance optimization in C++  
+🔭 **Currently working on:**  
+- 🚀 **APIs for AI/ML** at Agentrax  
+- 🛒 **Full-stack e-commerce website**  
+
+🌱 **Currently learning:**  
+- 🐍 FastAPI  
+- 🎮 SFML for C++ graphics  
+- 📚 Advanced STL algorithms  
+- ⏱ Real-time software concepts  
+
+👯 **Looking to collaborate on:**  
+- 🤖 AI/ML projects  
+- 🌐 Web development (Django/React/FastAPI)  
+- 💻 Open-source C++ projects  
+
+🤔 **Looking for help with:**  
+- ⚡ AI/ML integration  
+- ⏱ Real-time systems  
+- 🛠 Performance optimization in C++  
 
 💬 **Ask me about:**  
 - C++, Python, web development, AI/ML APIs  
-- Data structures, algorithms, and game development  
+- Data structures, algorithms, game dev  
 
-📫 **How to reach me:**  
-- Email: [mirzaalishahbaz192@gmail.com](mailto:mirzaalishahbaz192@gmail.com)  
-- GitHub: [github.com/alishahbazbaig](https://github.com/alishahbazbaig)  
-- LinkedIn: [ali-shahbaz-mirza-72008b373](https://www.linkedin.com/in/ali-shahbaz-mirza-72008b373/)  
+📫 **Reach me:**  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mirzaalishahbaz192@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/alishahbazbaig)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-shahbaz-mirza-72008b373/)  
 
 😄 **Pronouns:** He/Him  
-
 ⚡ **Fun fact:** I love learning new things and building projects for fun.
-
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alishahbaz.baig.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali_shahbaz_mirza) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-shahbaz-mirza-72008b373) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mirzaalishahbaz192@gmail.com) 
