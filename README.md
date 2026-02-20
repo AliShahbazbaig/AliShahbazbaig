@@ -7,7 +7,7 @@ Hi, I’m **Ali Shahbaz Mirza** 👋
 
 🔭 **Currently working on:**  
 - 🚀 **APIs for AI/ML** at Agentrax  
-- 🛒 **Full-stack e-commerce website**  
+- 🗨️ **Chat App**  
 
 🌱 **Currently learning:**  
 - 🐍 FastAPI  
