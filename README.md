@@ -13,7 +13,7 @@ Hi, I’m **Ali Shahbaz Mirza** 👋
 - 🐍 FastAPI  
 - 🎮 SFML for C++ graphics  
 - 📚 Advanced STL algorithms  
-- ⏱ Real-time software concepts  
+- ⏱ Django Channels 
 
 👯 **Looking to collaborate on:**  
 - 🤖 AI/ML projects  
