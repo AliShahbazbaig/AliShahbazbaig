@@ -1,19 +1,17 @@
 # 💫 About Me
 
-Hi, I’m **Ali Shahbaz Mirza** 👋  
-💻 **Intern at [Agentrax](https://www.agentrax.com)** | Building AI/ML APIs  
+Hi, I’m **Ali Shahbaz Mirza** 👋   
 
 ---
 
 🔭 **Currently working on:**  
-- 🚀 **APIs for AI/ML** at Agentrax  
-- 🗨️ **Chat App**  
+- 🚀 **APIs for AI/ML**
+- 🗨️ **RAG App**  
 
 🌱 **Currently learning:**  
-- 🐍 FastAPI  
-- 🎮 SFML for C++ graphics  
-- 📚 Advanced STL algorithms  
-- ⏱ Django Channels 
+-  ChromaDB 
+- 🎮 SFML for C++ graphics   
+
 
 👯 **Looking to collaborate on:**  
 - 🤖 AI/ML projects  
