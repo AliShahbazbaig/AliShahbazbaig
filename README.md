@@ -52,10 +52,10 @@ Hi, I’m **Ali Shahbaz Mirza** 👋
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [University Notes RAG Bot](https://github.com/AliShahbazbaig/REPO_NAME) | A Q&A bot built from scratch (no LangChain) that retrieves answers from PDF lecture notes using semantic search and an LLM. | Python, PyMuPDF, sentence-transformers, ChromaDB, FastAPI, OpenRouter (Mistral 7B), React, Vite |
-| [Real-Time Chat App](https://github.com/AliShahbazbaig/REPO_NAME) | Full-stack chat application with live messaging using WebSockets. | Django, Django Channels, React, WebSockets |
-| [E-Commerce App](https://github.com/AliShahbazbaig/REPO_NAME) | Full-stack e-commerce platform with product listings, cart, and order flow. | Django, React, MySQL/SQLite |
-| [2D RPG Game](https://github.com/AliShahbazbaig/REPO_NAME) | A 2D RPG built from scratch with custom entity system, animations, and combat. | C++, SFML |
+| [University Notes RAG Bot](https://github.com/AliShahbazbaig/PDFS-Q-A) | A Q&A bot built from scratch (no LangChain) that retrieves answers from PDF lecture notes using semantic search and an LLM. | Python, PyMuPDF, sentence-transformers, ChromaDB, FastAPI, OpenRouter (Mistral 7B), React, Vite |
+| [Real-Time Chat App](https://github.com/AliShahbazbaig/react-chat-app) | Full-stack chat application with live messaging using WebSockets. | Django, Django Channels, React, WebSockets |
+| [E-Commerce App](https://github.com/AliShahbazbaig/E-commerce) | Full-stack e-commerce platform with product listings, cart, and order flow. | Django, React, MySQL/SQLite |
+| [2D RPG Game](https://github.com/AliShahbazbaig/RPG_Game) | A 2D RPG built from scratch with custom entity system, animations, and combat. | C++, SFML |
 
 
 # 📊 GitHub Stats:
