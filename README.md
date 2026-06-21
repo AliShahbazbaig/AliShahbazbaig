@@ -47,12 +47,25 @@ Hi, I’m **Ali Shahbaz Mirza** 👋
 ![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
 ![Assembly](https://img.shields.io/badge/assembly-%23A9A9A9.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
+
+# 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| [University Notes RAG Bot](https://github.com/AliShahbazbaig/REPO_NAME) | A Q&A bot built from scratch (no LangChain) that retrieves answers from PDF lecture notes using semantic search and an LLM. | Python, PyMuPDF, sentence-transformers, ChromaDB, FastAPI, OpenRouter (Mistral 7B), React, Vite |
+| [Real-Time Chat App](https://github.com/AliShahbazbaig/REPO_NAME) | Full-stack chat application with live messaging using WebSockets. | Django, Django Channels, React, WebSockets |
+| [E-Commerce App](https://github.com/AliShahbazbaig/REPO_NAME) | Full-stack e-commerce platform with product listings, cart, and order flow. | Django, React, MySQL/SQLite |
+| [2D RPG Game](https://github.com/AliShahbazbaig/REPO_NAME) | A 2D RPG built from scratch with custom entity system, animations, and combat. | C++, SFML |
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AliShahbazbaig&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AliShahbazbaig&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliShahbazbaig&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://komarev.com/ghpvc/?username=AliShahbazbaig)<br/>
 ![](https://github-readme-activity-graph.vercel.app/graph?username=AliShahbazbaig&theme=react-dark)
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
