@@ -50,7 +50,8 @@ Hi, I’m **Ali Shahbaz Mirza** 👋
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AliShahbazbaig&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AliShahbazbaig&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliShahbazbaig&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliShahbazbaig&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://komarev.com/ghpvc/?username=AliShahbazbaig)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
