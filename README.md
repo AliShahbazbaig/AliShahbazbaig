@@ -1,45 +1,44 @@
 # 💫 About Me
 
-Hi, I’m **Ali Shahbaz Mirza** 👋   
+Hi, I'm **Ali Shahbaz Mirza** 👋
 
 ---
 
-🔭 **Currently working on:**  
-- 🚀 **APIs for AI/ML**
-- 🗨️ **RAG App**  
+🔭 **Currently working on:**
+- 🎯 **HireFlow** — AI-powered job marketplace backend (NestJS + Prisma) @ Simplera Solutions
+- 🎪 **EventoraX** — event management SaaS, two parallel stacks (Hono/tRPC/Drizzle & Express/Prisma) @ ORBIT-I
 
-🌱 **Currently learning:**  
--  ChromaDB 
-- 🎮 SFML for C++ graphics   
+🌱 **Currently learning:**
+- 🧮 Machine learning fundamentals (classical ML → neural nets → PyTorch → transformers)
 
+👯 **Looking to collaborate on:**
+- 🤖 AI/ML-powered backend systems
+- 🌐 Backend/infrastructure projects (Node.js, FastAPI, NestJS)
+- 💻 Open-source C++ / desktop app projects
 
-👯 **Looking to collaborate on:**  
-- 🤖 AI/ML projects  
-- 🌐 Web development (Django/React/FastAPI)  
-- 💻 Open-source C++ projects  
+🤔 **Looking for help with:**
+- ⚡ AI/ML integration in production backends
+- 🏗️ Backend architecture & systems design
+- 🛠 Performance optimization in C++
 
-🤔 **Looking for help with:**  
-- ⚡ AI/ML integration  
-- ⏱ Real-time systems  
-- 🛠 Performance optimization in C++  
+💬 **Ask me about:**
+- Node.js, Express, NestJS, Prisma, FastAPI, Python, C++
+- Backend architecture, auth systems (JWT/RBAC), REST API design
+- Qt/C++ desktop apps, data structures & algorithms
 
-💬 **Ask me about:**  
-- C++, Python, web development, AI/ML APIs  
-- Data structures, algorithms, game dev  
+📫 **Reach me:**
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mirzaalishahbaz192@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/alishahbazbaig)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-shahbaz-mirza-72008b373/)
 
-📫 **Reach me:**  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mirzaalishahbaz192@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/alishahbazbaig)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-shahbaz-mirza-72008b373/)  
-
-😄 **Pronouns:** He/Him  
+😄 **Pronouns:** He/Him
 ⚡ **Fun fact:** I love learning new things and building projects for fun.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alishahbaz.baig.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali_shahbaz_mirza) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-shahbaz-mirza-72008b373) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mirzaalishahbaz192@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alishahbaz.baig.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali_shahbaz_mirza) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-shahbaz-mirza-72008b373) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mirzaalishahbaz192@gmail.com)
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=qt&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -52,10 +51,9 @@ Hi, I’m **Ali Shahbaz Mirza** 👋
 
 | Project | Description | Tech Stack |
 |---|---|---|
+| [HireFlow]([https://github.com/AliShahbazbaig](https://github.com/AliShahbazbaig/HireFlow-ITSimplera-Institute)) | AI-powered job marketplace backend with JWT auth, RBAC, resume uploads, and admin moderation APIs. | NestJS, TypeScript, PostgreSQL, Prisma, Supabase Storage |
+| [POS Desktop App]([https://github.com/AliShahbazbaig](https://github.com/AliShahbazbaig/Point_of_Sale)) | Desktop point-of-sale app with cart management, receipt printing, and a revenue analytics dashboard. | C++, Qt6, SQLite |
 | [University Notes RAG Bot](https://github.com/AliShahbazbaig/PDFS-Q-A) | A Q&A bot built from scratch (no LangChain) that retrieves answers from PDF lecture notes using semantic search and an LLM. | Python, PyMuPDF, sentence-transformers, ChromaDB, FastAPI, OpenRouter (Mistral 7B), React, Vite |
-| [Real-Time Chat App](https://github.com/AliShahbazbaig/react-chat-app) | Full-stack chat application with live messaging using WebSockets. | Django, Django Channels, React, WebSockets |
-| [E-Commerce App](https://github.com/AliShahbazbaig/E-commerce) | Full-stack e-commerce platform with product listings, cart, and order flow. | Django, React, MySQL/SQLite |
-| [2D RPG Game](https://github.com/AliShahbazbaig/RPG_Game) | A 2D RPG built from scratch with custom entity system, animations, and combat. | C++, SFML |
 
 
 # 📊 GitHub Stats:
@@ -69,7 +67,3 @@ Hi, I’m **Ali Shahbaz Mirza** 👋
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-
