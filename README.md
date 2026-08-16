@@ -5,11 +5,10 @@ Hi, I'm **Ali Shahbaz Mirza** 👋
 ---
 
 🔭 **Currently working on:**
-- 🎯 **HireFlow** — AI-powered job marketplace backend (NestJS + Prisma) @ Simplera Solutions
-- 🎪 **EventoraX** — event management SaaS, two parallel stacks (Hono/tRPC/Drizzle & Express/Prisma) @ ORBIT-I
+- 🛒 **POS System** — Point of Sale app (Qt/C++ desktop + React/Vite web frontend), including backend integration
 
 🌱 **Currently learning:**
-- 🧮 Machine learning fundamentals (classical ML → neural nets → PyTorch → transformers)
+- 🧮 Cloud Computing
 
 👯 **Looking to collaborate on:**
 - 🤖 AI/ML-powered backend systems
