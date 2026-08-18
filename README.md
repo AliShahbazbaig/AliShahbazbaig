@@ -5,7 +5,7 @@ Hi, I'm **Ali Shahbaz Mirza** 👋
 ---
 
 🔭 **Currently working on:**
-- 🛒 **POS System** — Point of Sale app (Qt/C++ desktop + React/Vite web frontend), including backend integration
+- 🛒 **POS System** — Point of Sale app (Qt/C++ desktop + React/Vite web frontend), including backend integration (ASP.Net)
 
 🌱 **Currently learning:**
 - 🧮 Cloud Computing
