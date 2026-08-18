@@ -12,16 +12,16 @@ Hi, I'm **Ali Shahbaz Mirza** 👋
 
 👯 **Looking to collaborate on:**
 - 🤖 AI/ML-powered backend systems
-- 🌐 Backend/infrastructure projects (Node.js, FastAPI, NestJS)
+- 🌐 Backend/infrastructure projects (ASP.Net, Django, Node.js, FastAPI, NestJS)
 - 💻 Open-source C++ / desktop app projects
 
 🤔 **Looking for help with:**
 - ⚡ AI/ML integration in production backends
 - 🏗️ Backend architecture & systems design
-- 🛠 Performance optimization in C++
+- 🛠 Performance optimization in C++, SQL, C#, Python, Javascript
 
 💬 **Ask me about:**
-- Node.js, Express, NestJS, Prisma, FastAPI, Python, C++
+- ASP.Net ,Django, Node.js, Express, NestJS, Prisma, FastAPI, Python, C++
 - Backend architecture, auth systems (JWT/RBAC), REST API design
 - Qt/C++ desktop apps, data structures & algorithms
 
