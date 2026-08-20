@@ -55,7 +55,7 @@ Hi, I'm **Ali Shahbaz Mirza** 👋
 | Project | Description | Tech Stack |
 |---|---|---|
 | [HireFlow](https://github.com/AliShahbazbaig/HireFlow-ITSimplera-Institute) | AI-powered job marketplace backend with JWT auth, RBAC, resume uploads, and admin moderation APIs. | NestJS, TypeScript, PostgreSQL, Prisma, Supabase Storage |
-| POS System | Multi-part point-of-sale project: Qt/C++ desktop app, "Till" React/Vite web frontend, and a multi-tenant ASP.NET Core Web API backend. | C++, Qt6, SQLite, React, Vite, ASP.NET Core, EF Core, MySQL |
+| [POS System](https://github.com/AliShahbazbaig/POS-Web-App-) | Multi-part point-of-sale project: Qt/C++ desktop app, "Till" React/Vite web frontend, and a multi-tenant ASP.NET Core Web API backend. | C++, Qt6, SQLite, React, Vite, ASP.NET Core, EF Core, MySQL |
 | [POS Desktop App](https://github.com/AliShahbazbaig/Point_of_Sale) | Desktop point-of-sale app with cart management, receipt printing, and a revenue analytics dashboard. | C++, Qt6, SQLite |
 | [University Notes RAG Bot](https://github.com/AliShahbazbaig/PDFS-Q-A) | A Q&A bot built from scratch (no LangChain) that retrieves answers from PDF lecture notes using semantic search and an LLM. | Python, PyMuPDF, sentence-transformers, ChromaDB, FastAPI, OpenRouter (Mistral 7B), React, Vite |
 
